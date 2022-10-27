@@ -19,7 +19,7 @@ I'm self-taught in most technologies I know, and self-taught in English.
 <a href="https://yarnpkg.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" style="max-width:100%;" width="40" height="40"> </a>
 ---
   
-## 👨‍🚀 Felipe, we have a problem, maybe not, but if you wanna to contact me anyway, feel free to do so
+## 👨‍🚀 If you wanna to contact me, feel free to do so
 
 <a href="https://www.linkedin.com/in/felipe-ribeiro-moraes/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://github.com/FelipeM920"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
