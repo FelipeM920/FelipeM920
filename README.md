@@ -4,7 +4,7 @@
 
 I'm a front-end developer currently working with Html, Css, Sass, Js and React.  
 I love to study and learn new things, enthusiast in the area of software development
-with 5 years experience and good knowledge in: Html, Css, JavaScript, Node, Angular, React, React Native, TypeScript.  
+with 7 years experience and good knowledge in: Html, Css, JavaScript, Node, Angular, React, React Native, TypeScript.  
 In back-end i have some acknowledge in: C# and very little in Java but i'm always willing to learn more!  
 I'm self-taught in most technologies I know, and self-taught in English.
 
