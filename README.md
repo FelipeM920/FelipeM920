@@ -2,11 +2,9 @@
 
 ### Me, Myself and I 🤵
 
-I'm a front-end developer currently working with Html, Css, Sass, Js and React.  
-I love to study and learn new things, enthusiast in the area of software development
-with 7 years experience and good knowledge in: Html, Css, JavaScript, Node, Angular, React, React Native, TypeScript.  
-In back-end i have some acknowledge in: C# and very little in Java but i'm always willing to learn more!  
-I'm self-taught in most technologies I know, and self-taught in English.
+As a senior full-stack developer, I have been creating websites and web applications for various clients in different industries such as E-Commerce, Banking and Security companies for over 8 years. I am skilled in Javascript and React, and I have professional experience working with C# and Sql.
+
+My mission is to provide high quality, easy to use and responsive web solutions that meet the needs and expectations of customers and end users. I enjoy working with a team of talented and passionate developers who share the same vision and values. I'm always eager to learn new technologies and frameworks that can improve my skills and improve the web development process. I also have an advanced level of English (EF SET C1) and can communicate effectively with clients and colleagues from different backgrounds and cultures.
 
 ### 🛠️ Technologies and Tools
 <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40"></a>
