@@ -2,7 +2,7 @@
 
 ### Me, Myself and I 🤵
 
-As a senior full-stack developer, I have been creating websites and web applications for various clients in different industries such as E-Commerce, Banking and Security companies for over 8 years. I am skilled in Javascript and React, and I have professional experience working with C# and Sql.
+As a senior full-stack developer, I have been creating websites and web applications for various clients in different industries such as E-Commerce, Banking and Security companies for over 7 years. I am skilled in Javascript and React, and I have professional experience working with C# and Sql.
 
 My mission is to provide high quality, easy to use and responsive web solutions that meet the needs and expectations of customers and end users. I enjoy working with a team of talented and passionate developers who share the same vision and values. I'm always eager to learn new technologies and frameworks that can improve my skills and improve the web development process. I also have an advanced level of English (EF SET C1) and can communicate effectively with clients and colleagues from different backgrounds and cultures.
 
